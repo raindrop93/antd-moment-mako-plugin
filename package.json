@@ -1,0 +1,23 @@
+{
+  "name": "@alipay/moment-mako-plugin",
+  "version": "1.0.2",
+  "description": "A plugin to transform dayjs to moment in Ant Design components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "antd",
+    "moment",
+    "dayjs",
+    "plugin",
+    "transform",
+    "mako"
+  ],
+  "author": "raindrop93",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://registry.antgroup-inc.cn"
+  },
+  "repository": "git@github.com:raindrop93/antd-moment-mako-plugin.git"
+}
